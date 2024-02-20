@@ -44,7 +44,7 @@ All rights reserved. &copy; Ilham M &mdash; 2024
 
 For inquiries and collaboration opportunities, feel free to reach out to me.
 
-- Email: [ilham@example.com](mailto:ilham@example.com)
+- Email: [aammaul7@gmail.com](mailto:aammaul7@gmail.com)
 - LinkedIn: [Ilham Maulana](https://linkedin.com/in/ilham-maul)
 - GitHub: [zvn7](https://github.com/zvn7)
 
